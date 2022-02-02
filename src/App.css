@@ -1,0 +1,42 @@
+html,
+body {
+  height: 100%;
+  background-color: #f8f9fa;
+}
+.image-grid {
+  margin-top: 30px;
+}
+.input-group {
+  margin-bottom: 30px;
+}
+.input-group-append {
+  display: flex;
+  justify-content: center;
+  width: 10%;
+  display: flex;
+}
+.form-control {
+  border-radius: 5px;
+}
+.btn-outline-success {
+  border-radius: 5px;
+  background-color: #000 !important;
+  border: none;
+}
+.fa-search {
+  color: white;
+}
+.form-search {
+  width: 100%;
+  display: flex;
+  margin-top:50px
+}
+.item {
+  height: 200px;
+  margin-bottom: 30px;
+}
+.btn.btn-primary {
+  background-color: #000;
+  border: none;
+}
+
